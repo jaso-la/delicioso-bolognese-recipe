@@ -5,8 +5,9 @@
 # Delicioso Bolognese Recipe
 
 <h3> Recipe by <a  
-  href= "https://scpgajt.bluegolf.com/bluegolf/scpgajt22/profile/jlai89/tresults.htm" target= "_blank" > 
-  Jaso La </a> </h3>
+  href= "https://www.bluegolf.com/a/#/players/player/jlai124" target= "_blank" > 
+  Jaso La </a> 
+</h3>
 
 
 
