@@ -1,6 +1,3 @@
-<head>
-  
-</head>
 
 # Delicioso Bolognese Recipe
 
