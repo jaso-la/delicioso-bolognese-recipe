@@ -1,5 +1,2 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-  - jekyll-remote-theme
-title: Delicioso Bolognese Recipe
-description: Delicious recipe for bolognese
+name: My Site
+theme: minima
