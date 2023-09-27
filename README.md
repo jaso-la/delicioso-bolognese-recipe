@@ -20,11 +20,19 @@
 </p>
 
 <p>
-Bolognese is typically served in lasagna or over a thick pasta like tagliatelle. You can try putting it over spaghetti, but you won't have fun getting the sauce to stick to the noodles. And 
-  
+Bolognese is typically served in lasagna or over a thick pasta like tagliatelle. You can try putting it over spaghetti, but you will incur the wrath of a thousand Italians.
 </p>
+<a
+  href="https://commons.wikimedia.org/w/index.php?curid=20871494" >
+<img src="Spaghetti_bolognese_(hozinja).jpg" alt="really nice looking spaghetti bolognese"
+  width="576" height="768"
+  />
+</a>   
+By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
 
-
+<p> 
+You thought that spaghetti bolognese looked good? Well think again. 
+</p>
 
 
 
