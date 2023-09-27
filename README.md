@@ -27,9 +27,9 @@ Bolognese is typically served in lasagna or over a thick pasta like tagliatelle.
 <img src="Spaghetti_bolognese_(hozinja).jpg" alt="really nice looking spaghetti bolognese"
   width="576" height="768"
   />
-</a>   
+</a>   <br>
 By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
-
+<br><br>
 <p> 
 You thought that spaghetti bolognese looked good? Well think again. 
 </p>
