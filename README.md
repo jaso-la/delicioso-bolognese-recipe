@@ -44,7 +44,9 @@ By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
 <p> 
   <ol type="1">
     <li>First, you want to prep your vegetables. Finely chop your onions, carrots, and celery. </li> 
-    <li>Add pancetta to a large pot and slowly render out the fat. (You can use bacon instead but don't tell anyone I said that.)</li>
+      <img src="mirepoix.jpeg" alt="chopped onions, carrots, and celery" width="480" height="640" />
+    <li>Add pancetta to a large pot and slowly render out the fat. (You can use bacon instead but don't tell anyone I said that.)</li>  
+      <img src="bacon.jpeg" alt="bacon cooking in a pan"/>
     <li>Remove your pancetta and add your ground beef and pork and brown.</li>
     <li>Add the chopped vegetables</li>
     <li></li>
