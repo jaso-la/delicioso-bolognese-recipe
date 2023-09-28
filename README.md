@@ -21,7 +21,7 @@
 <h3>What is bolognese?</h3> 
   Bolognese is a meat sauce originating from Italy. Outside of Italy, most people know bolognese as a tomato sauce with meat in it. This is wrong and an angry Italian man will find you if you ever make bolognese like that. Traditionally ,     it's a meat sauce with a small amount of tomato. It typically contains a soffritto of onions, celery, and carrots; along with minced beef and pork, <strong>WHITE WINE</strong>, tomato paste, and milk. 
 <br>
-Fun fact: traditionally, only salt and pepper are used as seasoning. There are no herbs either (although bay leaves may be traditional. I don't know. I'm just some kid doing a comp sci project).
+Fun fact: traditionally, only salt and pepper are used as seasoning. Not even any garlic! I won't tell anyone if you use garlic though. There are no herbs either (although bay leaves may be authentic. I don't know. I'm just some kid doing a comp sci project).
 </p>
 
 <p>
@@ -38,7 +38,7 @@ By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
 <p> 
   Looks good, but is it worth the risk?
 </p>
-<br><br>
+<br>
 
 <h3>How to make bolognese</h3>
 <p> 
@@ -47,8 +47,8 @@ By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
       <img src="mirepoix.jpeg" alt="chopped onions, carrots, and celery" width="480" height="640" /> <br><br>
     <li>Add pancetta to a large pot and slowly render out the fat. (You can use bacon instead but don't tell anyone I said that.)</li>  
       <img src="bacon.jpeg" alt="bacon cooking in a pan" width="640" height="424"/> <br><br>
-    <li>Remove your pancetta and add your ground beef and pork and brown.</li>   <img src="beef.jpeg" alt="browning beef" width="500" height="500"/> <br><br>
-    <li>Add the chopped vegetables</li>
+    <li>Remove your pancetta and add your ground beef and pork and get it nice and brown.</li>   <img src="beef.png" alt="browning beef" width="500" height="500"/> <br><br>
+    <li>Add the chopped vegetables and deglaze with white wine. Add tomato paste, pancetta, and the questionably authentic bay leaf.</li>  <img src="deglaze.png" alt="deglazing with white wine" /> <br><br>
     <li></li>
     <li></li>
     <li></li>
