@@ -19,7 +19,9 @@
   Oh boy do I love bolognese. 
 <br><br>
 <h3>What is bolognese?</h3> 
-  Bolognese is a meat sauce originating from Italy. Outside of Italy, most people know bolognese as a tomato sauce with meat in it. This is wrong and an angry Italian man will find you if you ever make bolognese like that. Traditionally ,     it's a meat sauce with a small amount of tomato. It typically contains a soffritto of onions, celery, and carrots; along with minced beef, <strong>WHITE WINE</strong>, tomato paste, and milk. 
+  Bolognese is a meat sauce originating from Italy. Outside of Italy, most people know bolognese as a tomato sauce with meat in it. This is wrong and an angry Italian man will find you if you ever make bolognese like that. Traditionally ,     it's a meat sauce with a small amount of tomato. It typically contains a soffritto of onions, celery, and carrots; along with minced beef and pork, <strong>WHITE WINE</strong>, tomato paste, and milk. 
+<br>
+Fun fact: traditionally, only salt and pepper are used as seasoning. There are no herbs either (although bay leaves may be traditional. I don't know. I'm just some kid doing a comp sci project).
 </p>
 
 <p>
@@ -39,8 +41,19 @@ By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
 <br><br>
 
 <h3>How to make bolognese</h3>
+<p> 
+  <ol type="1">
+    <li>First, you want to prep your vegetables. Finely chop your onions, carrots, and celery. </li> 
+    <li>Add pancetta to a large pot and slowly render out the fat. (You can use bacon instead but don't tell anyone I said that.)</li>
+    <li>Remove your pancetta and add your ground beef and pork and brown.</li>
+    <li>Add the chopped vegetables</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
 
-<font size="1"> hello </font>
+</p>
 
 
 
