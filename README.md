@@ -65,8 +65,8 @@ By hozinja - Flickr: Good old spaghetti bolognese, CC BY 2.0
     <li>In the last few minutes of cooking, add milk. </li>
   </ol>
 </p>
-
-<img src="bolognese.png" alt="bolognese" />
+And you're done!
+<img src="bolognese.webp" alt="bolognese" width="750" height="1125"/>
 
 
 
